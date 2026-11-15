@@ -1,0 +1,5 @@
+# Dependensi aplikasi yang di-deploy (ringan, tanpa TensorFlow)
+flask>=3.0
+gunicorn>=22.0
+pandas>=2.0
+numpy>=1.26
